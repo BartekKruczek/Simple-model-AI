@@ -1,0 +1,1 @@
+Works on google colab or any jupiter reader. Works on with google drive, if you want to check it out, write priv and I will give u audio needed to run it :D
